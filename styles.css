@@ -31,3 +31,8 @@ p {
 li {
     margin-bottom:9px;
 }
+
+.box {
+    display: flex;
+    align-items:center;
+ }
